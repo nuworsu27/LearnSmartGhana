@@ -1,4 +1,4 @@
-. github/workflows/build-apk.yml
+.github/workflows/build-apk.yml
 name: Build LearnSmart Ghana APK
 
 on:
